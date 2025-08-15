@@ -17,7 +17,7 @@ Foco apenas em interface de gráficos com Tkinter, e todos os valores são fict�
 
 Representa uma ideia geral de funcionamento apenas local e da parte da frente (Front-End).
 
-==========================================================================================
+===========================================================================
 
 A Biblioteca de Imagens Python (PIL) é
 
@@ -50,7 +50,7 @@ PERDA DE USO, DADOS OU LUCROS, SEJA EM AÇÃO CONTRATUAL, NEGLIGÊNCIA
 OU OUTRA AÇÃO ILÍCITA, DECORRENTE OU RELACIONADA AO USO OU
 DESEMPENHO DESTE SOFTWARE.
 
-==========================================================================================
+===========================================================================
 
 
 
