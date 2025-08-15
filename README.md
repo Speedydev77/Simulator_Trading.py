@@ -13,6 +13,8 @@ A biblioteca Tkiter para exibição da janela GUI (Interface gráfica).
 
 A biblioteca Pillow com suporte a formatos de arquivo para imagens.
 
+Foco apenas em interface de gráficos com Tkinter, e todos os valores são fictícios.
 
+Representa uma ideia geral de funcionamento apenas local e da parte da frente (Front-End).
 
 
